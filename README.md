@@ -1,4 +1,5 @@
 # 🇺🇸 US Cities JSON
+List of US States, Counties, and Cities in JSON format.
 
 A complete, structured JSON dataset of every **state**, **county**, and **city/place** in the United States — free and open for anyone to use.
 
